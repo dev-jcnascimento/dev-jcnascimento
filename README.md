@@ -23,7 +23,7 @@
 <div align="center">
   <a href="https://github.com/juliodive">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliodive&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliodive&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliodive&layout=compact&langs_count=7&theme=default"/>
 </div>
   
 

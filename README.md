@@ -23,10 +23,9 @@
    <img align="center" alt="Julio-FileZilla" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg">
 </p>
 
-## Repositórios:   
- Tema | Projetos
- ------------ | -------------
-[Você sabe o que é CRUD?]()| [API em .Net 4.8 - SqlServer](https://github.com/juliodive/api-social-games)
+## Projetos:   
+
+[Você sabe o que é CRUD?](https://github.com/juliodive/api-social-games)
 
  
 ## **GitHub Estatísticas**

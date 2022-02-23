@@ -1,5 +1,5 @@
-## Olá e Bem-Vindo ao meu GitHub!
-##### Desenvolvedor de software com prática em desenvolvimento na Plataforma .NET, manutenção, configurações de ambientes com as tecnologias ASP.NET C# (WebForms, MVC), .NET CORE, Web API, HTML, CSS e Bootstrap, Testes de Unidade.<br>
+## Olá e Bem-Vindo ao meu GitHub! 😁
+#### Desenvolvedor de software com prática em desenvolvimento na Plataforma .NET, manutenção, configurações de ambientes com as tecnologias ASP.NET C# (WebForms, MVC), .NET CORE, Web API, HTML, CSS e Bootstrap, Testes de Unidade.<br>
 ## **My Social Networks**
 
 <p align="left">

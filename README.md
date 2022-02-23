@@ -26,8 +26,8 @@
 ## Projetos:   
 
 ### **[Você sabe o que é CRUD?](https://github.com/juliodive/api-social-games)**
-### **[API para Cadastro de Produtos e Gestão de Estoque](https://github.com/juliodive/product-management)** 
-### **[API para Cadastro de Contatos](https://github.com/dev-jcnascimento/contact-list)** 
+### **[Você sabe o que é uma API?](https://github.com/juliodive/product-management)** 
+### **[Você sabe o que é HATEOAS?](https://github.com/dev-jcnascimento/contact-list)** 
 
 ## **GitHub Estatísticas**
 <div align="center">

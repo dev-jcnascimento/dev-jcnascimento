@@ -25,7 +25,8 @@
 
 ## Projetos:   
 
-[Você sabe o que é CRUD?](https://github.com/juliodive/api-social-games)
+### **[Você sabe o que é CRUD?](https://github.com/juliodive/api-social-games)**
+### **[API para Cadastro de Produtos e Gestão de Estoque](https://github.com/juliodive/product-management)**
 
  
 ## **GitHub Estatísticas**

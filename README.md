@@ -21,6 +21,8 @@
   <img align="center" alt="Julio-GitHub" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Julio-VisualStudio" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg">
    <img align="center" alt="Julio-FileZilla" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg">
+   <img align="center" alt="Julio-Angular" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="Julio-TypeScript" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </p>
 
 ## Projetos:   
